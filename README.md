@@ -1,3 +1,3 @@
 # SOC-Analysts-Lab
 
-<img width="1152" height="811" alt="image" src="https://github.com/user-attachments/assets/3dedade7-698b-4534-8111-23243da255d6" />
+<img width="1016" height="755" alt="image" src="https://github.com/user-attachments/assets/63cb8b32-9225-4035-97bc-54d9550e3c84" />
